@@ -1,0 +1,192 @@
+﻿body {
+    margin: 0px;
+    border: none;
+    overflow-x: hidden;
+}
+
+.top-menu {
+    background-color: dimgrey;
+    width: 100%;
+    height: 35px;
+    padding-top: 0.5%;
+    padding-bottom: 1%
+}
+
+.main-content {
+    background-color: white;
+    width: 100%;
+    height: 500px;
+}
+
+    .main-content img {
+        width: 100%;
+        height: 100%;
+    }
+
+#newRegister {
+    background-color: white;
+    width: 100%;
+    height: 00px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 130px;
+}
+
+header {
+    width: 15%;
+}
+
+#header1 img {
+    width: 170px;
+    height: 39px;
+    padding-left: 200px;
+}
+
+#header1 {
+    float: left;
+}
+
+#header2 {
+    float: right;
+    text-align: center;
+}
+
+.bot-menu {
+    background-color: #343a40;
+    width: 100%;
+    height: 600px;
+    padding-top: 0.5%;
+}
+
+
+#nav1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    padding-top: 5px;
+    margin-left: 400px;
+}
+
+#iPhone {
+    color: white;
+}
+
+#iPad {
+    color: white;
+    padding-left: 30px;
+}
+
+#Mac {
+    color: white;
+    padding-left: 30px;
+}
+
+#Watch {
+    color: white;
+    padding-left: 30px;
+}
+
+#Sound {
+    color: white;
+    padding-left: 30px;
+}
+
+#Item {
+    color: white;
+    padding-left: 30px;
+    margin-right: 30px;
+}
+
+#news {
+    color: white;
+    padding-left: 30px;
+}
+
+#sale {
+    color: white;
+    padding-left: 30px;
+    margin-right: 30px;
+}
+
+#seachicon {
+    width: 18px;
+}
+
+#carticon {
+    color: white;
+    padding-left: 13px;
+    margin-right: 13px;
+    width: 18px;
+}
+
+#loginicon {
+    color: white;
+    margin-right: 5px;
+}
+
+#vietnamese {
+    margin-right: 3px;
+}
+
+#ipbg {
+    width: 100%;
+    height: 104%;
+    display: block;
+}
+
+#footer {
+    color: white;
+    padding-left: 600px;
+    padding-top: 50px;
+}
+
+#footer1 {
+    color: white;
+    font-size: smaller;
+    padding-top: 0;
+    padding-left: 250px;
+}
+
+    #footer1 img {
+        width: 150px;
+        height: 40px;
+        padding-top: 0;
+        padding-left: 1px;
+        padding-bottom: 15px;
+        margin-right: 100px;
+    }
+
+#footer2 {
+    color: white;
+    font-size: smaller;
+    padding-top: 20px;
+    padding-left: 250px;
+}
+
+.footer1 .footer2 {
+}
+
+#email {
+    line-height: 10px;
+    padding: 5px 0 5px 24px
+}
+
+#subscribe-button {
+    line-height: 20px;
+}
+
+.hotlinebutton img {
+    width: 30px;
+}
+
+#footer3 {
+    float: right;
+    padding-left: 200px;
+    padding-top: 150px;
+    width: 40px;
+}
+
+select {
+    background-color: grey;
+    color: white;
+}
